@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run olympics_app.py
