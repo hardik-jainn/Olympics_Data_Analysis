@@ -28,16 +28,16 @@ Includes:
 
 ## 📸 Sample Output
 - Medal tally by country and year
-- ![image](https://github.com/user-attachments/assets/a666fa20-c103-4239-a3da-e2d129e7b93d)
+ ![image](https://github.com/user-attachments/assets/a666fa20-c103-4239-a3da-e2d129e7b93d)
 
 - Most medals won by top athletes
-- ![image](https://github.com/user-attachments/assets/06753147-9f1f-4558-bb00-62f37f6202c7)
+ ![image](https://github.com/user-attachments/assets/06753147-9f1f-4558-bb00-62f37f6202c7)
   
 - Country-wise analysis
-- ![image](https://github.com/user-attachments/assets/ae3e3b8b-0e07-4e92-bc59-0ab89686f936)
+ ![image](https://github.com/user-attachments/assets/ae3e3b8b-0e07-4e92-bc59-0ab89686f936)
 
 - Athlete-wise analysis
-- ![image](https://github.com/user-attachments/assets/b7ba9757-b773-4bb5-b1c6-554f62975e70)
+ ![image](https://github.com/user-attachments/assets/b7ba9757-b773-4bb5-b1c6-554f62975e70)
 
 
 ## ✅ Outcome
