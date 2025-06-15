@@ -7,7 +7,7 @@ The dataset includes:
 - Athlete events (name, sport, team, year, gender, medal, etc.)
 - NOC region mappings
 
-(Source: [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/matheusfreitag/gender-and-the-olympics))
+(Source: [Kaggle Olympics Dataset](https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results))
 
 ## 🛠 Tools & Libraries
 - Python
@@ -26,8 +26,4 @@ The dataset includes:
 Includes bar plots, line charts, pie charts, and heatmaps for better insights.
 
 ## 🚀 How to Run
-1. Clone the repository
-2. Open `olympics_analysis.ipynb` in Jupyter Notebook
-3. Ensure required libraries are installed:  
-```bash
-pip install pandas numpy matplotlib seaborn
+Check out the deployed app here 👉 Olympics Dashboard on [Streamlit](https://hardik-jain-olympics-data-analysis.streamlit.app/)
